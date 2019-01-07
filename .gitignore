@@ -18,6 +18,9 @@
 .env.test.local
 .env.production.local
 
+# exclude firebase auth
+src/fire.js
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*

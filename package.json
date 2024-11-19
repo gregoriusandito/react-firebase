@@ -24,7 +24,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "firebase": "^5.7.2",
+    "firebase": "^10.9.0",
     "serve": "^10.1.1"
   }
 }
